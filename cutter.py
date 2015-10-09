@@ -1,7 +1,7 @@
 __author__ = 'skopeikin'
 def cut_categories(file_name):
     file = open(file_name)
-    file_output = open('cutted_categories.txt','w')
+    file_output = open('cutted_categories_2.txt','w')
     lines = file.readlines()
     for line in lines:
         line = line.strip()
@@ -12,7 +12,7 @@ def cut_categories(file_name):
     file.close()
 def cut_media_gallery(file_name):
     file = open(file_name)
-    file_output = open('cutted_gallery.txt','w')
+    file_output = open('cutted_gallery_3.txt','w')
     lines = file.readlines()
     for line in lines:
         line = line.strip()
@@ -21,6 +21,7 @@ def cut_media_gallery(file_name):
         file_output.write(line + "\n")
     file_output.close()
     file.close()
-cut_categories('categories.txt')
+#cut_categories('new_categories')
+cut_media_gallery('new_media')
 
 
