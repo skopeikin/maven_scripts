@@ -1,0 +1,672 @@
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=468&color=Blue$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/blue-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=496&color=Blue$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/blue-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=BronzeCopper&advs=1&orderBy=32&rp=7$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/copper-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^rp=3&color=BronzeCopper&advs=1&orderBy=32$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/copper-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=BronzeCopper&advs=1&rp=4$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/copper-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=BronzeCopper&advs=1&rp=3$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/copper-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=BronzeCopper&advs=1&rp=5$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/copper-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=BronzeCopper&advs=1&rp=2$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/copper-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^rp=6&color=BronzeCopper&advs=1$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/copper-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=BronzeCopper&advs=1&orderBy=32&rp=8$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/copper-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=509&color=Cream/Beige$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/cream-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=CreamBeige&advs=1&rpp=20&rp=23$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/cream-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=CreamBeige&advs=1&rpp=20&rp=25$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/cream-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=CreamBeige&advs=1&rpp=20&rp=32$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/cream-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^rp=1&color=CreamBeige&advs=1&rpp=20$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/cream-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=CreamBeige&advs=1&rpp=20&rp=22$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/cream-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=CreamBeige&advs=1&rpp=20&rp=29$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/cream-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=CreamBeige&advs=1&rpp=20&rp=31$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/cream-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=CreamBeige&advs=1&rpp=20&rp=9$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/cream-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=CreamBeige&advs=1&rpp=20&rp=26$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/cream-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=CreamBeige&advs=1&rpp=20&rp=28$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/cream-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=CreamBeige&advs=1&rpp=20&rp=30$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/cream-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=CreamBeige&advs=1&rpp=20&rp=27$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/cream-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=CreamBeige&advs=1&rpp=20&rp=2$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/cream-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=CreamBeige&advs=1&rpp=20&rp=4$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/cream-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=CreamBeige&advs=1&rpp=20&rp=5$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/cream-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=CreamBeige&advs=1&rpp=20&rp=8$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/cream-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=CreamBeige&advs=1&rp=31$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/cream-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=CreamBeige&advs=1&rp=7$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/cream-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=CreamBeige&advs=1&rp=18$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/cream-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=CreamBeige&advs=1&rp=21$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/cream-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=CreamBeige&advs=1&rp=19$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/cream-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=CreamBeige&advs=1&rp=15$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/cream-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=CreamBeige&advs=1&rp=24$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/cream-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=CreamBeige&advs=1&rp=25$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/cream-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=CreamBeige&advs=1&rp=13$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/cream-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=CreamBeige&advs=1&rp=22$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/cream-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=CreamBeige&advs=1&rp=9$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/cream-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=CreamBeige&advs=1&rp=26$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/cream-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=CreamBeige&advs=1&rp=4$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/cream-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=CreamBeige&advs=1&rp=33$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/cream-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=CreamBeige&advs=1&rp=6$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/cream-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=CreamBeige&advs=1&rp=5$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/cream-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=CreamBeige&advs=1&rp=3$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/cream-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^rp=1&color=CreamBeige&advs=1$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/cream-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=489&color=Cream/Beige$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/cream-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=489&color=CreamBeige$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/cream-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=493&color=Green$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/grey-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=468&color=White$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/white-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^rp=1&cid=651&material=Glass$
+RewriteRule ^.*$ http://www.glasstileoasis.com/m-Glass-Tiles [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^rp=3&cid=110&material=Glass%20Tiles$
+RewriteRule ^.*$ http://www.glasstileoasis.com/m-Glass-Tiles [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^rp=4&cid=144&material=Glass%20Tiles$
+RewriteRule ^.*$ http://www.glasstileoasis.com/m-Glass-Tiles [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^rp=5&cid=127&material=Glass%20Tiles$
+RewriteRule ^.*$ http://www.glasstileoasis.com/m-Glass-Tiles [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=369&color=Green$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/green-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=525&color=Blue$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/blue-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=672&va=1$
+RewriteRule ^.*$ http://www.glasstileoasis.com/ [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=107&bid=115$
+RewriteRule ^.*$ http://www.glasstileoasis.com/ [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=509&color=Green$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/green-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=230&material=Glass%20Tiles$
+RewriteRule ^.*$ http://www.glasstileoasis.com/c-105-Glass-Tiles [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=363&bid=107$
+RewriteRule ^.*$ http://www.glasstileoasis.com/ [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=452&pid=283$
+RewriteRule ^.*$ http://www.glasstileoasis.com/ [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^rp=4&cid=463&material=Glass%20Tiles$
+RewriteRule ^.*$ http://www.glasstileoasis.com/m-Stone-Tiles [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=401&material=Stone$
+RewriteRule ^.*$ http://www.glasstileoasis.com/m-Stone-Tiles [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^catid=105&finish=GlossyFrosted%20&%20Iridescent&rp=2&advs=1$
+RewriteRule ^.*$ http://www.glasstileoasis.com/ [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=696&pricese=2$
+RewriteRule ^.*$ http://www.glasstileoasis.com/ [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=413&pricese=1$
+RewriteRule ^.*$ http://www.glasstileoasis.com/ [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=426&pid=286$
+RewriteRule ^.*$ http://www.glasstileoasis.com/ [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=191&color=Black$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/black-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=187&pricese=2$
+RewriteRule ^.*$ http://www.glasstileoasis.com/ [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=496&color=Black$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/black-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=673&material=Glass%20Tiles$
+RewriteRule ^.*$ http://www.glasstileoasis.com/c-105-Glass-Tiles [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=715&pid=284$
+RewriteRule ^.*$ http://www.glasstileoasis.com/ [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=671&size=8%22%20x%209%22$
+RewriteRule ^.*$ http://www.glasstileoasis.com/ [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=321&size=3/8%22%20x%203/8%22$
+RewriteRule ^.*$ http://www.glasstileoasis.com/ [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=289&material=Stainless%20Steel%20Tiles$
+RewriteRule ^.*$ http://www.glasstileoasis.com/m-Metal-Tiles [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=488&material=Glass%20and%20Stone%20Tiles$
+RewriteRule ^.*$ http://www.glasstileoasis.com/c-105-Glass-Tiles [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=809&pid=286$
+RewriteRule ^.*$ http://www.glasstileoasis.com/ [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^rp=4&cid=327&material=Glass%20Tiles$
+RewriteRule ^.*$ http://www.glasstileoasis.com/c-105-Glass-Tiles [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^rp=2&cid=108&material=Glass%20and%20Stone%20Tiles$
+RewriteRule ^.*$ http://www.glasstileoasis.com/m-Glass-and-Stone-Tiles [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=426&pid=285$
+RewriteRule ^.*$ http://www.glasstileoasis.com/ [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=426&pid=284$
+RewriteRule ^.*$ http://www.glasstileoasis.com/ [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=715&pid=286$
+RewriteRule ^.*$ http://www.glasstileoasis.com/ [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=809&pricefrom=445&priceto=450.00$
+RewriteRule ^.*$ http://www.glasstileoasis.com/ [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=746&bid=118$
+RewriteRule ^.*$ http://www.glasstileoasis.com/ [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=926$
+RewriteRule ^.*$ http://www.glasstileoasis.com/ [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=268&pid=285$
+RewriteRule ^.*$ http://www.glasstileoasis.com/ [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=BronzeCopper&size&material=Glass%20and%20Metal&advs=1&catid&finish&pricefrom&priceto&x=75&y=20&rp=5$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/copper-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=725&pid=286$
+RewriteRule ^.*$ http://www.glasstileoasis.com/ [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^rp=2&color=&size=&material=&catid=257&finish=Pewter&pricefrom=&priceto=&advs=1&va=1$
+RewriteRule ^.*$ http://www.glasstileoasis.com/ [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=701&color=Blue$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/blue-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=424&finish=Satin%20Copper$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/copper-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=221&material=Glass%20Tiles$
+RewriteRule ^.*$ http://www.glasstileoasis.com/m-Glass-Tiles [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=479&pid=283$
+RewriteRule ^.*$ http://www.glasstileoasis.com/ [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=479&color=Brown$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/black-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=479&pid=284$
+RewriteRule ^.*$ http://www.glasstileoasis.com/ [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=479&pid=286$
+RewriteRule ^.*$ http://www.glasstileoasis.com/ [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=BronzeCopper&advs=1&rp=1$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/copper-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=479&pid=285$
+RewriteRule ^.*$ http://www.glasstileoasis.com/ [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=424&pid=286$
+RewriteRule ^.*$ http://www.glasstileoasis.com/ [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=BronzeCopper&size&material=Glass%20and%20Metal&advs=1&catid&finish&pricefrom&priceto&x=75&y=20&rp=7$
+RewriteRule ^.*$ http://www.glasstileoasis.com/c-Bronze-Copper-Tiles [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=424&pid=284$
+RewriteRule ^.*$ http://www.glasstileoasis.com/ [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=509&color=Black$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/black-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=479&color=Black$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/black-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=509&color=Brown$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/black-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^finish=Glossy,%20Frosted%20&%20Unpolished&rp=1&orderBy=39&advs=1$
+RewriteRule ^.*$ http://www.glasstileoasis.com/ [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=604&material=Glass%20Tiles$
+RewriteRule ^.*$ http://www.glasstileoasis.com/m-Glass-Tiles [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=BronzeCopper&advs=1&orderBy=31&rp=6$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/copper-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=BronzeCopper&advs=1&orderBy=31&rp=4$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/copper-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=BronzeCopper&advs=1&orderBy=31&rp=2$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/copper-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=BronzeCopper&advs=1&orderBy=31&rp=5$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/copper-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=BronzeCopper&advs=1&orderBy=31&rp=7$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/copper-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^rp=3&color=BronzeCopper&advs=1&orderBy=31$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/copper-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=BronzeCopper&advs=1&orderBy=31&rp=1$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/copper-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^rp=3&color=BronzeCopper&advs=1&orderBy=34$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/copper-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=BronzeCopper&advs=1&orderBy=33&rp=4$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/copper-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=BronzeCopper&advs=1&orderBy=33&rp=7$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/copper-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=BronzeCopper&advs=1&orderBy=33&rp=6$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/copper-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=BronzeCopper&advs=1&orderBy=33&rp=5$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/copper-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=BronzeCopper&advs=1&orderBy=33&rp=2$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/copper-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^rp=3&color=BronzeCopper&advs=1&orderBy=33$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/copper-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=BronzeCopper&advs=1&orderBy=33&rp=1$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/copper-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=665&size=4%22%20x%2018%22$
+RewriteRule ^.*$ http://www.glasstileoasis.com/ [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^rp=3&color=BronzeCopper&size&material=Glass%20and%20Metal&advs=1&catid&finish&pricefrom&priceto&x=75&y=20$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/copper-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=651&material=Glass$
+RewriteRule ^.*$ http://www.glasstileoasis.com/m-Glass-Tiles [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^rp=8&color=BronzeCopper&advs=1$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/copper-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=168&material=Glass%20Tiles$
+RewriteRule ^.*$ http://www.glasstileoasis.com/m-Glass-Tiles [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=468&bid=106$
+RewriteRule ^.*$ http://www.glasstileoasis.com/ [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=168&color=White$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/white-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=320&color=Orange$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/orange-tile.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=489&size=1%22%20x%201%22$
+RewriteRule ^.*$ http://www.glasstileoasis.com/ [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=BronzeCopper&size&material=Glass%20and%20Metal&advs=1&catid&finish&pricefrom&priceto&x=75&y=20&rp=4$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/copper-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=BronzeCopper&size&material=Glass%20and%20Metal&advs=1&catid&finish&pricefrom&priceto&x=75&y=20&rp=6$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/copper-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=BronzeCopper&size&material=Glass%20and%20Metal&advs=1&catid&finish&pricefrom&priceto&x=75&y=20&rp=2$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/copper-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=BronzeCopper&advs=1&orderBy=32&rp=2$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/copper-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=BronzeCopper&advs=1&orderBy=32&rp=6$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/copper-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^color=BronzeCopper&size&material=Glass%20and%20Metal&advs=1&catid&finish&pricefrom&priceto&x=75&y=20&rp=1$
+RewriteRule ^.*$ http://www.glasstileoasis.com/shop-by-tile-color/copper-tiles.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=651&pricefrom=30&priceto=35.00$
+RewriteRule ^.*$ http://www.glasstileoasis.com/ [L,R=301]
+RewriteCond %{REQUEST_URI} /searchadv.asp$
+RewriteCond %{QUERY_STRING} ^finish=Glossy,%20Frosted%20&%20Polished&orderBy=32&advs=1$
+RewriteRule ^.*$ http://www.glasstileoasis.com/ [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=477&size=7/8%22%20x%207/8%22$
+RewriteRule ^.*$ http://www.glasstileoasis.com/ [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=353&material=Glass%20and%20Stone%20Tiles$
+RewriteRule ^.*$ http://www.glasstileoasis.com/m-Glass-and-Stone-Tiles [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^catid=712&finish=Glossy,%20Frosted%20&%20Unpolished&rp=1&advs=1$
+RewriteRule ^.*$ http://www.glasstileoasis.com/ [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^catid=712&finish=Glossy,%20Frosted%20&%20Unpolished&rp=2&advs=1$
+RewriteRule ^.*$ http://www.glasstileoasis.com/ [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=419&bid=114$
+RewriteRule ^.*$ http://www.glasstileoasis.com/ [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=172&pid=283$
+RewriteRule ^.*$ http://www.glasstileoasis.com/ [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=246&finish=Unpolished$
+RewriteRule ^.*$ http://www.glasstileoasis.com/ [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=321&size=38$
+RewriteRule ^.*$ http://www.glasstileoasis.com/ [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=671&size=8$
+RewriteRule ^.*$ http://www.glasstileoasis.com/ [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=671&size=8&34;%20x%209&34;$
+RewriteRule ^.*$ http://www.glasstileoasis.com/ [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=321&size=38&34;%20x%2038&34;$
+RewriteRule ^.*$ http://www.glasstileoasis.com/ [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^rp=2&finish=Pewter&va=1&catid=257&advs=1$
+RewriteRule ^.*$ http://www.glasstileoasis.com/ [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=665&size=4$
+RewriteRule ^.*$ http://www.glasstileoasis.com/ [L,R=301]
+RewriteCond %{REQUEST_URI} /category.asp$
+RewriteCond %{QUERY_STRING} ^cid=489&size=1$
+RewriteRule ^.*$ http://www.glasstileoasis.com/ [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=13071$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-13071-Aztec-Purple-Glossy-Glass [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=13090$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-13090-Ice-Mist-Matte-sold-by-the-box-Green-Frosted-Glass [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=13187$
+RewriteRule ^.*$ http://www.glasstileoasis.com/http://www.glasstileoasis.com/ [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=13193$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-13193-Purple-Purple-Glossy-Iridescent-Glass [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=13309$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-13309-Purple-Purple-Glossy-Frosted-Glass-and-Stone [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=13418$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-13418-Bronze-Bronze-Copper-Glossy-Glass [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=13586$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-13586-Aqua-Aqua-Glossy-Iridescent-Glass [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=14186$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-14186-Bright-White-GL-88-White-Glossy-Glass [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=14189$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-14189-Bright-White-Raindrop-GL-91-White-Glossy-Glass [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=14280$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-14280-Slate-Grey-Glossy-Glass [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=14447$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-14447-Mix-Polished-Stones-Brown-Polished-Natural-Stone [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=14591$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-14591-Metallic-Copper-Black-Bronze-Copper-Glossy-Iridescent-Glass [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=14885$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-14885-Stormy-Skies-Glass-Clear-Blue-Glossy-Glass [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=14931$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-14931-Peacock-Blue-Blend-Blue-Glossy-Iridescent-Glass [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=14965$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-14965-Ocean-Blue-Blue-Glossy-Glass [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=15128$
+RewriteRule ^.*$ http://www.glasstileoasis.com/ [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=15241$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-15241-Brick-Silver-Brushed-Metal [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=15278$
+RewriteRule ^.*$ http://www.glasstileoasis.com/ [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=15573$
+RewriteRule ^.*$ http://www.glasstileoasis.com/ [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=15576$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-15576-Light-Travertine-Cream-Beige-Polished-Stone [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=15605$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-15605-Raymond-Red-Brown-Polished-Stone [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=15616$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-15616-Giallo-Real-Cream-Beige-Tumbled-Stone [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=15673$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-15673-Desert-Gold-Brown-Tumbled-Stone [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=15681$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-15681-Orange-Sunkist-Red-Orange-Glossy-Iridescent-Glass [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=16222$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-16222-Large-Green-Turtle-Green-Glossy-Ceramic [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=16602$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-16602-Patina-Green-Green-Glossy-Ceramic [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=17061$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-17061-Lavender-Purple-Glossy-Glass [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=17087$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-17087-Versailles-Antique-Copper-Antique-Metal [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=17089$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-17089-Large-Mosaic-Antique-Copper-Antique-Metal [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=17128$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-17128-Jewel-Bright-Ice-White-Glossy-Frosted-Iridescent-Glass-and-Stone [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=17302$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-17302-Honey-Onyx-Thassos-White-Cream-Beige-Polished-Stone [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=17319$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-17319-Cascade-Basalt-Grey-Polished-Stone [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=17320$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-17320-Cascade-Emperador-Dark-Crema-Marfil-Emperador-Light-Mix-Cream-Beige-Polished-Stone [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=17330$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-17330-Ming-Green-Thassos-White-Green-Polished-Stone [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=17433$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-17433-Green-White-River-Green-Tumbled-Natural-Stone [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=17444$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-17444-Turquoise-Green-Tumbled-Natural-Stone [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=17755$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-17755-Coffee-White-Glossy-Glass [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=17767$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-17767-Turquoise-Green-Glossy-Glass [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=18015$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-18015-Warm-Glow-Gold-Glossy-Frosted-Glass [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=18387$
+RewriteRule ^.*$ http://www.glasstileoasis.com/ [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=18707$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-18707-Carrara-White-Pure-Black-Marble-Blue-Bahia-Giallo-Reale-Michael-Angelo-Royal-Onyx-Wail-Yellow-Black-Polished-Stone [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=18801$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-18801-Cream-Marfil-Emperador-Dark-Enoeradir-Light-Brown-Polished-Stone [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=19112$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-19112-Dark-Clementine-Orange-Glossy-Glass [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=19113$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-19113-Foil-Silver-Glossy-Glass [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=19115$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-19115-Empress-Green-Marble-Green-Polished-Stone [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=19117$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-19117-White-Marble-White-Polished-Stone [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=19360$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-19360-Natural-Brown-Glossy-Shell [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=19495$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-19495-Ornamental-White-Glossy-Glass [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=19637$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-19637-Crema-Cream-Beige-Glossy-Glass-and-Stone [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=19647$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-19647-Bling-Silver-Glossy-Glass [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=20848$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-20848-Cobalt-Sea-Blue-Glossy-Iridescent-Glass [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=20860$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-20860-Modern-Silver-Glossy-Glass-and-Metal [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=20867$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-20867-Azure-Denim-Grey-Glossy-Glass [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=20891$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-20891-Oceano-Blue-Glossy-Iridescent-Glass [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=20895$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-20895-Azul-Blue-Glossy-Glass [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=20955$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-20955-Urban-Cowboy-Brown-Glossy-Polished-Glass-Stone-Metal [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=20962$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-20962-Classic-Tiffany-Cream-Beige-Polished-Unpolished-Glass-and-Stone [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=20971$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-20971-Stainless-Steel-Stainless-Steel-Brushed-Metal [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=21094$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-21094-Grey-Glossy-Matte-Glass [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=21103$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-21103-Aqua-Glossy-Iridescent-Glass [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=21140$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-21140-Orange-Glossy-Glass [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=21176$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-21176-Bronze-Copper-Glossy-Frosted-Glass [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=22238$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-22238-Black-Glossy-Ceramic [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=22263$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-22263-Green-Glossy-Ceramic [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=23238$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-23238-Cream-Beige-Glossy-Glass [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=23961$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-23961-Aqua-Glossy-Glass [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=23984$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-23984-Royal-Blue-Glossy-Glass [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=24010$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-24010-White-Glossy-Frosted-Glass-and-Stone [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=24020$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-24020-Brown-Glossy-Glass-and-Stone [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=24032$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-24032-Green-Glossy-Glass [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=24159$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-24159-Red-Glossy-Glass [L,R=301]
+RewriteCond %{REQUEST_URI} /item.asp$
+RewriteCond %{QUERY_STRING} ^item=24177$
+RewriteRule ^.*$ http://www.glasstileoasis.com/p-24177-Red-Glossy-Glass [L,R=301]

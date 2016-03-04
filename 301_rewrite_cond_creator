@@ -1,0 +1,19 @@
+file=open('old_get_param_redirects')
+file_output=open('rewrite_cond','w')
+lines=file.readlines()
+for line in lines:
+    line.strip()
+    splitted_line=line.split("\t")
+    if len(splitted_line)<2:
+        splitted_line=line.split(" ")
+    request_uri=splitted_line[0].split("?")[0]
+    get_params=splitted_line[0].split("?")[1]
+    redirect_url=splitted_line[1]
+    line1="RewriteCond %{REQUEST_URI} "+request_uri+"$"+"\n"
+    line2="RewriteCond %{QUERY_STRING} "+"^"+get_params+"$"+"\n"
+    line3="RewriteRule ^.*$ "+redirect_url.strip()+" "+"[L,R=301]"+"\n"
+    file_output.write(line1)
+    file_output.write(line2)
+    file_output.write(line3)
+file.close()
+file_output.close()
